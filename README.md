@@ -11,3 +11,4 @@ Regarding model weights: In this project, the machine learning model weights are
 3. Installation
 ```bash
 pip install -r requirements.txt
+Python script execution is simple. Run the script and follow the prompts in the dialog boxes.
